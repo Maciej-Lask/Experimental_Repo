@@ -1,0 +1,7 @@
+html-validate dla pliku index.html 
+
+npm exec html-validate index.html
+
+html-validate dla wszystkich plików *.html 
+
+npm exec html-validate **/*.html
